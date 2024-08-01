@@ -8,8 +8,8 @@ category: coursework
 related_publications: true
 ---
 
-Term project in 6.864/6.8610 Quantitative Natural Processing Fall 2023, taught by Prof. Yoon Kim and Chris Tanner, Ph.D. We proposed data augmentation as a solution to handling noisy datasets for named entity recognition tasks.
+Term project in 6.869/6.8300 Advances in Computer Vision Spring 2022, taught by Profs. Bill Freeman and Philip Isola. This project explores multimodal training using two aggregation techniques: two-tower and multi-layer perceptron.
 
 [![GitHub Repository](https://img.shields.io/badge/Github-Repository-blue?style=flat-square&logo=github)](https://github.com/saqzhao/Mirror-of-6.8610)
 
-<embed src="https://saqzhao.github.io/assets/projects/6_8610_Term_Paper.pdf" width="600" height="700" type="application/pdf" />
+<embed src="https://saqzhao.github.io/assets/projects/6_869_Term_Paper.pdf" width="600" height="700" type="application/pdf" />
