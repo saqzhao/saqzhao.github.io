@@ -1,200 +1,176 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sarah Zhao",
+    "label": "M.Eng Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "personal email": "saqzhao@gmail.com",
+    "email": "sarahaz@mit.edu",
+    "url": "https://saqzhao.github.io",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "sarah-a-zhao",
+        "url": "https://linkedin.com/sarah-a-zhao"
+      },
+      {
+        "network": "Github",
+        "username": "saqzhao",
+        "url": "https://github.com/saqzhao"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, Massachusetts, USA",
+      "url": "https://mit.edu/",
+      "area": "Computer Science and Engineering, Concentration in Computational Biology",
+      "studyType": "M.Eng.",
+      "startDate": "2024-09-01",
+      "endDate": "2025-05-31"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, Massachusetts, USA",
+      "url": "https://mit.edu/",
+      "area": "Computer Science and Engineering; Mathematics",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "2024-05-31",
+      "score": "4.3/5.0"
     }
   ],
-  "awards": [
+  "experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Massachusetts Institute of Technology",
+      "position": "Master's Student, Laboratory of Manolis Kellis, Ph.D.",
+      "startDate": "2024-09-01",
+      "endDate": "2025-05-31",
+      "summary": "Advised by Prof. Manolis Kellis, Ph.D.",
+      "highlights": ["Variant interpretation for precision medicine", "Building software to identify transcription binding factor sites genome-wide and associate motif variant status with chromatin accessibility"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Massachusetts Institute of Technology",
+      "position": "Undergraduate Researcher, Laboratory of Manolis Kellis, Ph.D.",
+      "startDate": "2024-01-08",
+      "endDate": "2024-08-31",
+      "summary": "Directly advised by Riley Mangan, Ph.D.",
+      "highlights": ["Developed infrastructure using Go for probabilistic representations of biological sequence data, contributing to open-source genomics software package Gonomics", "Reconstructed ancestral genome based on posterior predictive distributions to identify derived gene regulatory changes between ancient and modern genomes"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Massachusetts Institute of Technology,",
+      "position": "Undergraduate Researcher, Laboratory of Lindsay Case, Ph.D.",
+      "startDate": "2024-02-02",
+      "endDate": "2024-08-31",
+      "summary": "Directly advised by Jibin Sadasivan, Ph.D.",
+      "highlights": ["Constructed protein-protein interaction network using Python and Cytoscape to identify key scaffold proteins in focal adhesions", "Designed and conducted experiments to investigate co-localization between PCBP1 and Paxillin", "Conducted comprehensive literature review on the focal adhesion proteome and phase separation mechanisms"]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Kongsberg Maritime",
+      "position": "Machine Learning Intern",
+      "startDate": "2023-06-12",
+      "endDate": "2023-08-25",
+      "highlights": ["Implemented machine-learning video and image compression algorithms using PyTorch Lightning to decrease file size and improve latency", "Researched and conducted comparative analysis of cutting-edge models and commercial codecs"]
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "NCSoft",
+      "position": "Machine Learning Intern",
+      "startDate": "2022-06-06",
+      "endDate": "2022-08-28",
+      "highlights": ["Built and tested models using Pytorch, achieved lifelike text-to-animation with multi language input", "Designed morph targets in Maya for Mandarin lip synching to localise Korean content for Taiwan market", "Refactored codebase to comply with current industry code standards and streamline development"]
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Massachusetts Institute of Technology,",
+      "position": "Undergraduate Researcher, Laboratory of Faez Ahmed, Ph.D.",
+      "startDate": "2022-02-02",
+      "endDate": "2022-05-31",
+      "summary": "Directly advised by Binyang Song, Ph.D.",
+      "highlights": ["Designed algorithm in Python to process publication abstracts using natural language programming (NLTK, scikit-learn)", "Evaluated data trends based on statistical data analysis & visualised trends using Plotly and Dash"]
+    },
+    {
+      "name": "Massachusetts Institute of Technology,",
+      "position": "Undergraduate Researcher, Laboratory of Deblina Sarkar, Ph.D.",
+      "startDate": "2020-10-15",
+      "endDate": "2021-08-31",
+      "summary": "Directly advised by Yubin Cai",
+      "highlights": ["Programmed models in Python to analyse circuit and fabricated microcoils for non-invasive nanosensors monitoring cell response", "Conducted literature review on impact of materials on impedance, conductivity, and thermal activity for neural sensors"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Complete sequencing of ape genome",
+      "publisher": "BioRxiv",
+      "releaseDate": "2024-07-31",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.07.31.605654v1"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "Advanced Proficiency",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "<i>Advanced proficiency in</i> Python, Go, Typescript",
+        "<i>Proficient in</i> R, Java, C, Assembly",
+        "<i>Additional experience in</i> Julia, Matlab, Javascript, HTML and CSS"
+      ]
+    },
+    {
+      "name": "Machine Learning, Data Science and Statistics",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "Tensorflow",
+        "NumPy",
+        "Pandas",
+        "SKLearn"
+      ]
+    },
+    {
+      "name": "Experimental Biology",
+      "level": "Introductory",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cell culture",
+        "Western blotting",
+        "Immunoprecipitation",
+        "Plasmid production and cloning",
+        "Gel electrophoresis"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Advanced",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Korean",
+      "fluency": "Conversational",
       "icon": ""
     }
   ],
-  "interests": [
+  "service": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "Harvard Phillips Brooks House Association Chinatown Citizenship",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Mock Interview Teacher, Curriculum Revision Committee",
+      "url": "https://www.pbha.org/programs/chinatown-citizenship",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-31",
+      "highlights": ["Facilitated mock interviews to prepare Chinese-native students for the U.S. naturalisation exam", "Redesigned curriculum according to the USCIS 2022 Naturalization Test Redesign "]
     }
   ]
 }

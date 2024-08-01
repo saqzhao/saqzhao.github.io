@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Nature":
+  url: https://www.nature.com/
+  color: "#2f2f32"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"BioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#be2736"
 
-"Vision":
-  color: "#009f36"
+"Cell":
+  url: https://www.cell.com/
+  color: "#087dbb"

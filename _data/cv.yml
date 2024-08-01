@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Sarah A. Zhao
+    # - name: Date of Birth
+      # value: 2nd February 2022
+    # - name: Languages
+    #   value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MEng, Computer Science and Engineering, Concentration in BioEECS
+      institution: Massachusetts Institute of Technology, Massachusetts, USA
+      year: Expected 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advised by Prof. Manolism Kellis, Ph.D.
+        - Thesis on predicting the impact of variants of unknown specificity on cell-type-specific chromatin accessibility.
+    - title: BS, Computer Science and Engineering, Mathematics
+      institution: Massachusetts Institute of Technology
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.3/5.0
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master's Student, Laboratory of Manolis Kellis, Ph.D.
+      institution: Massachusetts Institute of Technology, Massachusetts, USA
+      year: Sept 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Variant interpretation for precision medicine
+        - Building software to identify transcription binding factor sites genome-wide and associate motif variant status with chromatin accessibility
+    - title: Undergraduate Research, Laboratory of Manolis Kellis, Ph.D.
+      institution: Massachusetts Institute of Technology
+      year: Jan 2024 - Aug 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Direct advisor: Riley Mangan, Ph.D.
+        - Developed infrastructure using Go for probabilistic representations of biological sequence data, contributing to open-source genomics software package Gonomics
+        - Reconstructed ancestral genome based on posterior predictive distributions to identify derived gene regulatory changes between ancient and modern genomes
+    - title: Undergraduate Research, Laboratory of Lindsay Case, Ph.D.
+      institution: Massachusetts Institute of Technology, Massachusetts, USA
+      year: Feb 2024 - Aug 2024
       description:
+        - Direct advisor: Jibin Sadisavan, Ph.D.
+        - Constructed protein-protein interaction network using Python and Cytoscape to identify key scaffold proteins in focal adhesions
+        - Designed and conducted experiments to investigate co-localization between PCBP1 and Paxillin
+        - Conducted comprehensive literature review on the focal adhesion proteome and phase separation mechanisms
+    - title: Machine Learning Intern
+      institution: Kongsberg Maritime, Lysaker, Norway
+      year: June 2023 - Aug 2023
+      description:
+        - Implemented machine-learning video and image compression algorithms using PyTorch Lightning to decrease file size and improve latency
+        - Researched and conducted comparative analysis of cutting-edge models and commercial codecs
+    - title: Machine Learning Intern
+      institution: NCSoft, Seongnam, South Korea
+      year: June 2022 - Aug 2022
+      description:
+        - Built and tested models using Pytorch, achieved lifelike text-to-animation with multi language input
+        - Designed morph targets in Maya for Mandarin lip synching to localise Korean content for Taiwan
+        - Refactored codebase to comply with current industry code standards and streamline development
+    - title: Undergraduate Research, Laboratory of Faez Ahmed, Ph.D.
+      institution: Massachusetts Institute of Technology, Massachusetts, USA
+      year: Feb 2022 - May 2022
+      description:
+        - Direct advisor: Binyang Song, Ph.D.
+        - Designed algorithm in Python to process publication abstracts using natural language programming (NLTK, scikit-learn)
+        - Evaluated data trends based on statistical data analysis & visualised trends using Plotly and Dash
+    - title: Undergraduate Research, Laboratory of Deblina Sarkar, Ph.D.
+      institution: Massachusetts Institute of Technology, Massachusetts, USA
+      year: Feb 2022 - May 2022
+      description:
+        - Direct advisor: Yubin Cai
+        - Programmed models in Python to analyse circuit and fabricated microcoils for non-invasive nanosensors monitoring cell response
+        - Conducted literature review on impact of materials on impedance, conductivity, and thermal activity for neural sensors
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - *Advanced proficiency in* Python, Go, Typescript
+        - *Proficient in* R, Java, Assembly
+        - *Additional experience in* Julia, Matlab, Javascript, HTML and CSS 
+    - title: Machine Learning, Statistics, and Data Science
       items:
-        - Description 1.
-        - Description 2.
+        - PyTorch, Tensorflow, NumPy, Pandas, SKLearn
+    - Experimental Biology
+      items:
+        - Cell culture, western blotting, immunoprecipitation, plasmid production and cloning, gel electrophoresis
+    - Languages
+      items:
+        - Mandarin (Advanced)
+      
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

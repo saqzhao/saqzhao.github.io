@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 6.0426/6.1200 Discrete Mathematics for Computer Science
+### Teaching Assistant
+*Fall 2022, Spring 2023, Fall 2023, Spring 2024*
+* Led twice-weekly recitations on discrete maths and computer science principles for four semesters
+* Developed problem sets, exam questions, and recitation notes
+* Supervised course graders
 
-Organize your courses by years, topics, or universities, however you like!
+## 6.009/6.1010 Discrete Mathematics for Computer Science
+### Learning Assistant
+*Spring 2022*
+* Advised students in one-on-one meetings during office hours
+* Graded student labs and homework assignments
+
+## 8.01 Physics I: Classical Mechanics
+### Grader
+*Spring 2022*
+* Graded student work and provided feedback
