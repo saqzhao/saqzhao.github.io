@@ -32,7 +32,7 @@ nav_order: 3
 * [18.217 Combinatorial Theory](https://math.mit.edu/~apost/courses/18.217/), taught by Prof. Alexander Postnikov
 
 ### Spring 2023
-* 6.4550/21M.385 Interactive Music Systems, taught by Prof. Eran Egozy [github]((https://github.com/saqzhao/Mirror-of-21m.385))
+<!-- * 6.4550/21M.385 Interactive Music Systems, taught by Prof. Eran Egozy [github]((https://github.com/saqzhao/Mirror-of-21m.385)) -->
 * 6.S077 Introduction to Low-level Programming in C and Assembly, taught by Dr. Joseph Steinmeyer
 * 18.100A Real Analysis, taught by Prof. Gigliola Staffilani
 * [18.212 Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212_2023/), taught by Prof. Alexander Postnikov
