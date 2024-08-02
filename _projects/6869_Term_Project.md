@@ -5,7 +5,7 @@ description: Term Project
 img: assets/img/pipedream.png
 importance: 2
 category: coursework
-related_publications: true
+related_publications: false
 ---
 
 Term project in 6.869/6.8300 Advances in Computer Vision Spring 2022, taught by Profs. Bill Freeman and Philip Isola. This project explores multimodal training using two aggregation techniques: two-tower and multi-layer perceptron.

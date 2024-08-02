@@ -5,7 +5,7 @@ description: Term Paper
 img: assets/img/pipedream.png
 importance: 4
 category: coursework
-related_publications: true
+related_publications: false
 ---
 
 Term paper in 6.867/6.7900 Machine Learning Fall 2023, taught by Profs. Pulkit Agrawal, Stephen Bates, Tommi Jaakola and Shenshen. We reviewed Priya Goyal et al. “Vision Mod-
