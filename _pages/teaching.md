@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-### 6.0426/6.1200 Discrete Mathematics for Computer Science
+### 6.042/6.1200 Discrete Mathematics for Computer Science
 #### Teaching Assistant
 *Fall 2022, Spring 2023, Fall 2023, Spring 2024*
 * Led twice-weekly recitations on discrete maths and computer science principles for four semesters
