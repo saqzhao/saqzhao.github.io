@@ -12,4 +12,4 @@ Term project in 6.864/6.8610 Quantitative Natural Processing Fall 2023, taught b
 
 [![GitHub Repository](https://img.shields.io/badge/Github-Repository-blue?style=flat-square&logo=github)](https://github.com/saqzhao/Mirror-of-6.8610)
 
-<!-- [![Open PDF](https://img.icons8.com/color/48/000000/pdf-2.png)](https://saqzhao.github.io/assets/pdf/6_8610_Term_Paper.pdf){:target="_blank" rel="noopener noreferrer"} -->
+[![Open PDF](https://img.icons8.com/color/48/000000/pdf-2.png)](https://saqzhao.github.io/assets/pdf/6_8610_Term_Paper.pdf){:target="_blank" rel="noopener noreferrer"}
