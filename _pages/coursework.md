@@ -28,7 +28,7 @@ nav_order: 3
 * 18.204 Undergrad Seminar in Discrete Math, taught by Dr. Melissa Sherman-Bennett
   * Presented on Chapter 31 of 'Proofs from the Book' by Aigner and Ziegler, discussing the coupon collector problem, top-in-at-random shuffles, strong uniform stopping rules, and the Gilbert-Shannon-Reeds model for riffle shuffles
   * Presented a mapping of Schubert polynomials to pipe dreams, as discussed by Bergeron and Billey (1993) 
-  * [Term paper](https://saqzhao.github.io/assets/pdf/18_204-Term-Paper.pdf) studying relationship between pipedreams and bumpless pipedreams
+  * [Term paper](https://saqzhao.github.io/assets/pdf/18_204_Term_Paper.pdf) studying relationship between pipedreams and bumpless pipedreams
 * [18.217 Combinatorial Theory](https://math.mit.edu/~apost/courses/18.217/), taught by Prof. Alexander Postnikov
 
 #### Spring 2023
