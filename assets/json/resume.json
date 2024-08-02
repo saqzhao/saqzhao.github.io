@@ -26,7 +26,8 @@
       "url": "https://mit.edu/",
       "area": "Computer Science and Engineering, Concentration in Computational Biology",
       "studyType": "M.Eng.",
-      "endDate": "Expected 2025"
+      "endDate": "2025-05-31",
+      "startDate": "2024-09-01"
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -34,7 +35,8 @@
       "url": "https://mit.edu/",
       "area": "Computer Science and Engineering; Mathematics",
       "studyType": "B.S.",
-      "endDate": "2024",
+      "endDate": "2024-05-31",
+      "startDate": "2020-09-01",
       "score": "4.3/5.0"
     }
   ],
@@ -48,7 +50,7 @@
       "highlights": ["Variant interpretation for precision medicine", "Building software to identify transcription binding factor sites genome-wide and associate motif variant status with chromatin accessibility"]
     },
     {
-      "name": "Massachusetts Institute of Technology",
+      "name": "Massacchusetts Institute of Technology",
       "position": "Undergraduate Researcher, Laboratory of Manolis Kellis, Ph.D.",
       "startDate": "2024-01-08",
       "endDate": "2024-08-31",
