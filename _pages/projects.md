@@ -23,14 +23,14 @@ horizontal: false
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects reversed%}
+    {% for project in sorted_projects reverse%}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects reversed%}
+    {% for project in sorted_projects reverse%}
       {% include projects.liquid %}
     {% endfor %}
   </div>
@@ -50,13 +50,13 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid reversed%}
+      {% include projects_horizontal.liquid reverse%}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects reversed%}
+    {% for project in sorted_projects reverse%}
       {% include projects.liquid %}
     {% endfor %}
   </div>
