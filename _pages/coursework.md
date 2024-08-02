@@ -20,15 +20,15 @@ nav_order: 3
 
 #### IAP 2024
 * Mathematics Directed Reading Program
-  * Discussing [Parametrized Algorithms](https://books.google.com/books/about/Parameterized_Algorithms.html?id=Frg0CgAAQBAJ&source=kp_book_description), presented on Chapters 2 and 5 with Alek Westover and Tomasz &#x015A;alusarczyk [slides](https://saqzhao.github.io/assets/pdf/DRP_2024_Presentation.pdf)
+  * Discussing [Parametrized Algorithms](https://books.google.com/books/about/Parameterized_Algorithms.html?id=Frg0CgAAQBAJ&source=kp_book_description), presented on Chapters 2 and 5 with Alek Westover and Tomasz &#x015A;alusarczyk [slides](/assets/pdf/DRP_2024_Presentation.pdf)
 
 #### Fall 2023
 * 6.1910 Computation Structures, taught by Prof. Silvina Hanono Wachman
-* [6.867/6.7900 Machine Learning](https://gradml.mit.edu/), taught by Profs. Pulkit Agrawal, Stephen Bates, Tommi Jaakali, Shen Shen [Term Paper](https://saqzhao.github.io/assets/pdf/6_867_Term_Paper.pdf)
+* [6.867/6.7900 Machine Learning](https://gradml.mit.edu/), taught by Profs. Pulkit Agrawal, Stephen Bates, Tommi Jaakali, Shen Shen [Term Paper](/assets/pdf/6_867_Term_Paper.pdf)
 * 18.204 Undergrad Seminar in Discrete Math, taught by Dr. Melissa Sherman-Bennett
   * Presented on Chapter 31 of 'Proofs from the Book' by Aigner and Ziegler, discussing the coupon collector problem, top-in-at-random shuffles, strong uniform stopping rules, and the Gilbert-Shannon-Reeds model for riffle shuffles
   * Presented a mapping of Schubert polynomials to pipe dreams, as discussed by Bergeron and Billey (1993) 
-  * [Term paper](https://saqzhao.github.io/assets/pdf/18_204-Term-Paper.pdf) studying relationship between pipedreams and bumpless pipedreams
+  * [Term paper](/assets/pdf/18_204-Term-Paper.pdf) studying relationship between pipedreams and bumpless pipedreams
 * [18.217 Combinatorial Theory](https://math.mit.edu/~apost/courses/18.217/), taught by Prof. Alexander Postnikov
 
 #### Spring 2023
@@ -38,13 +38,13 @@ nav_order: 3
 * [18.212 Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212_2023/), taught by Prof. Alexander Postnikov
 
 #### Fall 2022
-* [6.864/6.8610 Quantitative Natural Language Processing](https://mit-6861.github.io/), taught by Profs. Yoon Kim and Chris Tanner [github](https://github.com/saqzhao/Mirror-of-6.8610)
+* [6.864/6.8610 Quantitative Natural Language Processing](https://mit-6861.github.io/), taught by Profs. Yoon Kim and Chris Tanner [\[term project\]](https://github.com/saqzhao/Mirror-of-6.8610)
 * 8.02 Physics II, taught by Prof. Peter Dourmashkin
 * 24.906 Linguistic Study of Bilingualism, taught by Prof. Suzanne Flynn
 
 #### Spring 2022
 * 2.URG Undergraduate Research in Mechanical Engineering, supervised by Prof. Faez Ahmed, advised by Dr. Binyang Song
-* [6.869/6.8300 Advances in Computer Vision](http://6.869.csail.mit.edu/sp22/index.html), taught by Profs. Bill Freeman and Phillip Isola [github](https://github.com/emilyzfliu/vis-sounds)
+* [6.869/6.8300 Advances in Computer Vision](http://6.869.csail.mit.edu/sp22/index.html), taught by Profs. Bill Freeman and Phillip Isola [\[term project\]](https://github.com/emilyzfliu/vis-sounds)
 * [18.06 Linear Algebra](https://github.com/mitmath/1806/tree/spring22), taught by Prof. Steven Johnson
 * 18.200 Principles of Discrete Applied Mathematics, taught by Prof. Michel Goemans and Prof. Ankur Moitra
 * 21G.904 Korean IV, taught by Hee-Jeong Jeong
