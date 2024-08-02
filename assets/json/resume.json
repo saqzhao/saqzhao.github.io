@@ -26,8 +26,7 @@
       "url": "https://mit.edu/",
       "area": "Computer Science and Engineering, Concentration in Computational Biology",
       "studyType": "M.Eng.",
-      "startDate": "2024-09-01",
-      "endDate": "2025-05-31"
+      "endDate": "Expected 2025"
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -35,8 +34,7 @@
       "url": "https://mit.edu/",
       "area": "Computer Science and Engineering; Mathematics",
       "studyType": "B.S.",
-      "startDate": "2020-09-01",
-      "endDate": "2024-05-31",
+      "endDate": "2024",
       "score": "4.3/5.0"
     }
   ],
@@ -120,11 +118,7 @@
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PyTorch",
-        "Tensorflow",
-        "NumPy",
-        "Pandas",
-        "SKLearn"
+        "PyTorch, Tensorflow, NumPy, Pandas, SKLearn"
       ]
     },
     {
@@ -132,11 +126,7 @@
       "level": "Introductory",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Cell culture",
-        "Western blotting",
-        "Immunoprecipitation",
-        "Plasmid production and cloning",
-        "Gel electrophoresis"
+        "Cell culture, Western blotting, Immunoprecipitation, Plasmid production and cloning, Gel electrophoresis"
       ]
     }
   ],
