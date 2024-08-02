@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 6.869/6.8300 Advances in Computer Vision
 description: Term Project
 img: assets/img/pipedream.png

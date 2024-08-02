@@ -6,18 +6,9 @@
     "personal email": "saqzhao@gmail.com",
     "email": "sarahaz@mit.edu",
     "url": "https://saqzhao.github.io",
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "sarah-a-zhao",
-        "url": "https://linkedin.com/sarah-a-zhao"
-      },
-      {
-        "network": "Github",
-        "username": "saqzhao",
-        "url": "https://github.com/saqzhao"
-      }
-    ]
+    "github": "https://github.com/saqzhao",
+    "linkedin": "https://linkedin.com/sarah-a-zhao",
+    "ORCID": "https://orcid.org/0009-0008-6068-5693"
   },
   "education": [
     {

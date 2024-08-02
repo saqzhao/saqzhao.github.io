@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 21M.385 Interactive Music Systems 
 description: Term Project
 img: assets/img/pipedream.png

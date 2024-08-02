@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 6.867/6.7900 Machine Learning
 description: Term Paper
 img: assets/img/pipedream.png

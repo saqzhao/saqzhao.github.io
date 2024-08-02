@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: 18.204 Undergraduate Seminar in Discrete Mathematics
 description: Term Paper
 img: assets/img/pipedream.png
