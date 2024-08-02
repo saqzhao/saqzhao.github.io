@@ -40,7 +40,7 @@
       "score": "4.3/5.0"
     }
   ],
-  "work": [
+  "experience": [
     {
       "name": "Massachusetts Institute of Technology",
       "position": "Master's Student, Laboratory of Manolis Kellis, Ph.D.",
@@ -156,13 +156,65 @@
   ],
   "service": [
     {
+      "organization": "MIT ARCTAN (Red Cross)",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Community Service Coordinator",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-31",
+      "highlights": ["Facilitated mock interviews to prepare Chinese-native students for the U.S. naturalisation exam", "Redesigned curriculum according to the USCIS 2022 Naturalization Test Redesign "]
+    },
+    {
       "organization": "Harvard Phillips Brooks House Association Chinatown Citizenship",
       "location": "Cambridge, Massachusetts, USA",
       "position": "Mock Interview Teacher, Curriculum Revision Committee",
       "url": "https://www.pbha.org/programs/chinatown-citizenship",
       "startDate": "2020-09-01",
       "endDate": "2022-05-31",
-      "highlights": ["Facilitated mock interviews to prepare Chinese-native students for the U.S. naturalisation exam", "Redesigned curriculum according to the USCIS 2022 Naturalization Test Redesign "]
+      "highlights": ["Facilitated mock interviews to prepare Chinese-native students for the U.S. naturalisation exam", "Redesigned curriculum according to the USCIS 2022 Naturalization Test Redesign"]
+    }
+  ],
+  "campus involvement": [
+    {
+      "organization": "MIT MedLinks",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Residential Director",
+      "startDate": "2022-09-01",
+      "endDate": "2024-05-31",
+      "highlights": ["Connected students to healthcare services,promoted education campaigns, planned welfare events for ~200 students (4 hrs/week)"]
+    },
+    {
+      "organization": "MIT 2024 Ring Committee",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Contributing Artist, Social Chair",
+      "url": "http://brassrat2024.mit.edu/index.html",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-16",
+      "highlights": ["Planned events for more than 1200 students & managed committee correspondence (6 hrs/week)", "Collaborated with jeweller representatives to design ring and coordinate sales (2 hrs/week)"]
+    },
+    {
+      "organization": "MIT Committee on Discipline",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Undergraduate Student Representative",
+      "url": "https://cod.mit.edu/",
+      "startDate": "2022-09-01",
+      "endDate": "2024-05-31",
+      "highlights": ["Resolved reported violations of MIT policies and community standards in an objective manner"]
+    },
+    {
+      "organization": "MIT ActLingual",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Committee Leader",
+      "startDate": "2022-09-01",
+      "endDate": "2024-05-31",
+      "highlights": ["Wrote manual on medical interpreting in Spanish and Mandarin, and organised interpretation opportunities in Boston for MIT students"]
+    },
+    {
+      "organization": "MIT Music & Theatre Arts",
+      "location": "Cambridge, Massachusetts, USA",
+      "position": "Emerson Scholar, Piano",
+      "startDate": "2020-09-01",
+      "endDate": "2021-05-31",
+      "highlights": ["Scholarship for exemplary talent and passion for music"]
     }
   ]
 }
