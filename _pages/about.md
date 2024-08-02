@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Sarah_Zhao_Headshot.png
+  # image: Sarah_Zhao_Headshot.png
   image_circular: true # crops the image to make it circular
 
 news: false # includes a list of news items
