@@ -4,6 +4,7 @@ title: 6.869/6.8300 Advances in Computer Vision
 description: Term Project
 img: assets/img/pipedream.png
 importance: 2
+github: https://github.com/saqzhao/Mirror-of-6.8610
 category: coursework
 related_publications: false
 ---

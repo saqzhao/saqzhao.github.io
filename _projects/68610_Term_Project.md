@@ -5,6 +5,7 @@ description: Term Project
 img: assets/img/pipedream.png
 importance: 2
 category: coursework
+github: https://github.com/saqzhao/Mirror-of-6.8610
 related_publications: false
 ---
 
