@@ -2,7 +2,7 @@
 layout: project
 title: 6.867/6.7900 Machine Learning
 description: Term Paper
-img: assets/img/generic-net.svg
+img: assets/img/generic-net.png
 importance: 4
 category: coursework
 pdf: 6_7900_Term_Paper.pdf
