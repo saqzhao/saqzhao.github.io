@@ -5,7 +5,7 @@ permalink: /projects/
 description: Term projects and papers
 nav: true
 nav_order: 2
-display_categories: [coursework]
+display_categories: [UROP, coursework]
 horizontal: false
 ---
 
