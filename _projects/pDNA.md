@@ -3,7 +3,7 @@ layout: project
 title: pDNA: Probabilistic DNA
 description: UROP
 img: assets/img/pdna.png
-importance: 2
+importance: 1
 category: UROP
 github: https://github.com/vertgenlab/gonomics
 related_publications: false
