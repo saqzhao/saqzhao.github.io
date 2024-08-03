@@ -2,7 +2,7 @@
 layout: project
 title: 21M.385 Interactive Music Systems 
 description: Term Project
-img: assets/img/pipedream.png
+img: assets/img/serenade.png
 importance: 2
 category: coursework
 github: https://github.com/saqzhao/Mirror-of-21m.385
