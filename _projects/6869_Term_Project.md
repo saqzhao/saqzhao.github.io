@@ -6,7 +6,7 @@ img: assets/img/vis-sounds.png
 importance: 2
 github: https://github.com/emilyzfliu/vis-sounds
 pdf: 6_869_Term_Project.pdf
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

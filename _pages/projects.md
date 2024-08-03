@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research and Coursework
 nav: true
 nav_order: 2
-display_categories: [UROP, coursework]
+display_categories: [UROP, Coursework]
 horizontal: false
 ---
 

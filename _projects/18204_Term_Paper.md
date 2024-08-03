@@ -5,7 +5,7 @@ description: Term Paper
 img: assets/img/pipedream.png
 importance: 5
 pdf: 18_204_Term_Paper.pdf
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

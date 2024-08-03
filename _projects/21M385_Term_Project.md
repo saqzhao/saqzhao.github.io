@@ -4,7 +4,7 @@ title: 21M.385 Interactive Music Systems
 description: Term Project
 img: assets/img/serenade.png
 importance: 2
-category: coursework
+category: Coursework
 github: https://github.com/saqzhao/Mirror-of-21m.385
 related_publications: false
 ---

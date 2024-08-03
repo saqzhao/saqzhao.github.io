@@ -4,7 +4,7 @@ title: 6.867/6.7900 Machine Learning
 description: Term Paper
 img: assets/img/generic-net.png
 importance: 4
-category: coursework
+category: Coursework
 pdf: 6_7900_Term_Paper.pdf
 related_publications: false
 ---

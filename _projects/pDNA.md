@@ -1,6 +1,6 @@
 ---
 layout: project
-title: pDNA: Probabilistic DNA
+title: Probabilistic DNA
 description: UROP
 img: assets/img/pdna.png
 importance: 1
