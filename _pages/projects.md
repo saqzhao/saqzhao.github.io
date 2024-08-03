@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Term projects and papers
+description: Research and Coursework
 nav: true
 nav_order: 2
 display_categories: [UROP, coursework]
