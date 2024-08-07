@@ -2,7 +2,7 @@
 layout: project
 title: Focal Adhesion Adaptor Proteins
 description: UROP
-# img: assets/img/pdna.png
+img: assets/img/ppi_placeholder.png
 importance: 1
 category: UROP
 # github: 
