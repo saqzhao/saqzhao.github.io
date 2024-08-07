@@ -6,7 +6,7 @@ img: assets/img/pdna.png
 importance: 1
 category: UROP
 github: https://github.com/vertgenlab/gonomics
-related_publications: false
+related_publications: true
 ---
 
 An undergraduate research project under the direction of Riley Mangan, Ph.D. in the MIT Kellis Lab. We developed a framework for probabilistic representation of DNA (pDNA), to incorporate sequence uncertainty stemming from somatic mutation, population variance, ancestral reconstruction and incomplete lineage sorting. This package is available as part of Gonomics, a free open-source collection of bioinformatics libraries. Source code and documentation is available at [https://github.com/vertgenlab/gonomics](https://github.com/vertgenlab/gonomics).
