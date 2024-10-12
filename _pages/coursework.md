@@ -8,8 +8,13 @@ nav_order: 3
 
 ### MIT M.Eng
 #### Fall 2024
-* 7.52 Genetics
-* 6.589/6.8720 Principles of Synthetic Biology
+* 7.52 Genetics for Graduate Students, taught by Prof. Chris Kaiser
+* 20.405 Principles of Synthetic Biology, taught by Prof. Ronald Weissm
+* [HST.S56 Mining Microbiomes: Fundamental Insights from Public Data](https://sites.google.com/view/hst-s56-mining-microbiomes/home), taught by Prof. Tami Lieberman
+
+##### Expected Spring 2025
+* 7.05 Biochemistry
+* 20.310 Molecular, Cellular, and Tissue Biomechanics
 
 ### MIT Undergraduate
 (G) indicates graduate-level
@@ -25,12 +30,12 @@ nav_order: 3
 
 #### Fall 2023
 * 6.1910 Computation Structures, taught by Prof. Silvina Hanono Wachman
-* [6.867/6.7900 Machine Learning](https://gradml.mit.edu/) (G), taught by Profs. Pulkit Agrawal, Stephen Bates, Tommi Jaakali, Shen Shen [\[Term Paper\]](https://saqzhao.github.io/assets/pdf/6_7900_Term_Paper.pdf)
+* [6.867/6.7900 Graduate Machine Learning](https://gradml.mit.edu/) (G), taught by Profs. Pulkit Agrawal, Stephen Bates, Tommi Jaakali, Shen Shen [\[Term Paper\]](https://saqzhao.github.io/assets/pdf/6_7900_Term_Paper.pdf)
 * 18.204 Undergrad Seminar in Discrete Math, taught by Dr. Melissa Sherman-Bennett
   * Presented on Chapter 31 of 'Proofs from the Book' by Aigner and Ziegler, discussing the coupon collector problem, top-in-at-random shuffles, strong uniform stopping rules, and the Gilbert-Shannon-Reeds model for riffle shuffles
   * Presented a mapping of Schubert polynomials to pipe dreams, as discussed by Bergeron and Billey (1993) 
   * [Term paper](https://saqzhao.github.io/assets/pdf/18_204_Term_Paper.pdf) studying relationship between pipedreams and bumpless pipedreams
-* [18.217 Combinatorial Theory](https://math.mit.edu/~apost/courses/18.217/) (G), taught by Prof. Alexander Postnikov
+* [18.217 Combinatorial Theory](https://math.mit.edu/~apost/courses/18.217_2023/) (G), taught by Prof. Alexander Postnikov
 
 #### Spring 2023
 * 6.4550/21M.385 Interactive Music Systems, taught by Prof. Eran Egozy [\[Term Project\]](https://github.com/saqzhao/Mirror-of-21m.385)
@@ -68,9 +73,9 @@ nav_order: 3
 * 21G.901 Korean I, taught by Hee-Jeong Jeong
 
 #### Fall 2020
-* 5.112 Principles of Chemical Science, taught by Prof. Sylvia Ceyer
+* 5.112 Principles osf Chemical Science, taught by Prof. Sylvia Ceyer
 * 6.006/6.1210 Introduction to Algorithms, taught by Prof. Julian Shun
-* 8.02 Physics I, taught by Prof. Joseph Formaggio
+* 8.01 Physics I, taught by Prof. Joseph Formaggio
 * 12.000 Solving Complex Problems
 * 21.06 Bioethics, taught by Prof. Robin Scheffler
 
