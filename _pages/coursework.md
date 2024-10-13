@@ -73,10 +73,10 @@ nav_order: 3
 * 21G.901 Korean I, taught by Hee-Jeong Jeong
 
 #### Fall 2020
-* 5.112 Principles osf Chemical Science, taught by Prof. Sylvia Ceyer
+* 5.112 Principles of Chemical Science, taught by Prof. Sylvia Ceyer
 * 6.006/6.1210 Introduction to Algorithms, taught by Prof. Julian Shun
 * 8.01 Physics I, taught by Prof. Joseph Formaggio
-* 12.000 Solving Complex Problems
+* 12.000 Solving Complex Problems [\[class-wide term project\]](https://terrascope2024.mit.edu/)
 * 21.06 Bioethics, taught by Prof. Robin Scheffler
 
 #### Advanced Standing Exams (Fall 2020)
