@@ -31,6 +31,35 @@
       "score": "4.3/5.0"
     }
   ],
+  "awards": [
+    {
+      "title": "David Adler Memorial MEng Thesis Award",
+      "date": "2026",
+      "awarder": "MIT Department of Electrical Engineering and Computer Science",
+      "summary": "Awarded for outstanding MEng thesis in the lab of Prof. Manolis Kellis, Ph.D."
+    },
+    {
+      "title": "Fulbright Open Study/Research Award",
+      "date": "2026-05-12",
+      "awarder": "U.S. Department of State Bureau of Educational and Cultural Affairs",
+      "url": "https://us.fulbrightonline.org/alumni/grantee-directory?name=sarah+zhao&sort=",
+      "summary": "Fully funded award to conduct research in the lab of Athanasios Typas, Ph.D. at the European Molecular Biology Laboratory, Heidelberg in Germany."
+    },
+    {
+      "title": "Skaggs-Oxford Scholarship",
+      "date": "2025-04-10",
+      "awarder": "Scripps Research Institute, University of Oxford",
+      "url": "https://education.scripps.edu/graduate/doctoral-program/other-academic-programs/skaggs-oxford-program/",
+      "summary": "Full funding for five years of doctoral study through the Scripps Research Institute and the University of Oxford"
+    },
+    {
+      "title": "Anna Pogosyants UROP Prize",
+      "date": "2025",
+      "awarder": "MIT Department of Electrical Engineering and Computer Science",
+      "url": "https://www.eecs.mit.edu/eecs-2025-awards/",
+      "summary": "Awarded for outstanding undergraduate research in the lab of Prof. Manolis Kellis, Ph.D."
+    }
+  ],
   "experience": [
     {
       "name": "Massachusetts Institute of Technology",

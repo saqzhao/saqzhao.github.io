@@ -7,14 +7,14 @@ nav_order: 3
 ---
 
 ### MIT M.Eng
+##### Spring 2025
+* 7.05 Biochemistry, taught by Prof. Michael Yaffe
+* 20.310 Molecular, Cellular, and Tissue Biomechanics, taught by Prof. Michael Bathe, Prof. Ritu Raman, and Prof. Peter So 
+
 #### Fall 2024
 * 7.52 Genetics for Graduate Students, taught by Prof. Chris Kaiser
 * 20.405 Principles of Synthetic Biology, taught by Prof. Ron Weiss
 * [HST.S56 Mining Microbiomes: Fundamental Insights from Public Data](https://sites.google.com/view/hst-s56-mining-microbiomes/home), taught by Prof. Tami Lieberman
-
-##### Expected Spring 2025
-* 7.05 Biochemistry
-* 20.310 Molecular, Cellular, and Tissue Biomechanics
 
 ### MIT Undergraduate
 (G) indicates graduate-level
