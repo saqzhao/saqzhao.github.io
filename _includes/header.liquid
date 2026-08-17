@@ -21,9 +21,11 @@
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
+
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
       {% endif %}
+
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -103,13 +105,9 @@
                     {% assign url = '/blog/' %}
                   {% else %}
                     {% assign url = p.url %}
+                      <span class="sr-only">(current)</span>
                   {% endif %}
-
-                  <a
-                    class="nav-link"
-                    href="{{ url | relative_url }}"
-                    {% if p.cv_pdf %}target="_blank" rel="noopener noreferrer"{% endif %}
-                  >
+                  <a class="nav-link" href="{{ url | relative_url }}" {% if p.cv_pdf%}target="_blank"{% endif %}>
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
